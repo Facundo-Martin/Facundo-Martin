@@ -2,7 +2,7 @@
 
 ## I'm a Front End Developer
 
-- 🔭 Check out my Portfolio: [My Portfolio!](facundomartin.io)!
+- 🔭 Check out my Portfolio: [My Portfolio!](https://facundomartin.io)!
 - 🌱 I’m currently learning (and loving) React.js
 - 👯 I’m looking to join a software development team
 - 🥅 2022 Goals: Get my first job in tech!
