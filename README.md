@@ -27,7 +27,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="padding-right:10px;" />][webdevplaylist]
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://www.svgrepo.com/show/353735/firebase.svg" style="padding-right:10px;" />][webdevplaylist]
 [<img align="left" alt="Visual Studio Code" width="26px" src="file:///Users/facundo/Downloads/firebase-svgrepo-com.svg" style="padding-right:10px;" />][webdevplaylist]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][webdevplaylist]
 LinkedIn
