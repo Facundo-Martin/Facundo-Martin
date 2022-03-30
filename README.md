@@ -9,6 +9,8 @@
 - ⚡ Fun fact: I used to hate React, now I can't live without it...
 - 😻 Check out my favorite project so far: [Twitter Web 3.0 App](https://github.com/Facundo-Martin/twitter-blockchain-app)
 
+<br/>
+---
 ### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />](9https://code.visualstudio.com/)
