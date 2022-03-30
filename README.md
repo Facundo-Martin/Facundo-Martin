@@ -40,7 +40,8 @@
 <br /> -->
 <br />
  <details>
-  <summary>:zap: Languages Stats</summary>
+  <summary> Languages Stats</summary>
+ 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Facundo-Martin)](https://github.com/Facundo-Martin/github-readme-stats)
 
 <!-- ### 📕 Latest Projects -->
