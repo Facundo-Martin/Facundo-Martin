@@ -33,11 +33,11 @@
 <br />
 <br />
 
-### Contact:
+<!-- ### Contact:
 
 [<img align="left" alt="LinkedIn" width="26px" src="https://www.svgrepo.com/show/157006/linkedin.svg" style="padding-right:10px;" />](https://www.linkedin.com/in/facundo-martin-88637422b/)
 [<img align="left" alt="Gmail" width="26px" src="https://www.svgrepo.com/show/381000/new-logo-gmail.svg" style="padding-right:10px;" />](https://www.gmail.com)
-<br />
+<br /> -->
 
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Facundo-Martin)](https://github.com/Facundo-Martin/github-readme-stats) -->
@@ -55,7 +55,7 @@
 <!--
 ➡️ [more blog posts...](https://codestackr.com) -->
 
----
+<!-- --- -->
 
 <!-- <details>
   <summary>:zap: Recent GitHub Activity</summary>
@@ -70,7 +70,7 @@
 
 <!-- </details>  -->
 
-<!-- <details>
+ <details>
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
