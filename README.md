@@ -17,7 +17,7 @@
 [<img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />](https://sass-lang.com/)
 [<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />](https://www.javascript.com/)
 [<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />](https://reactjs.org/)
-[<img align="left" alt="Next.js" width="26px" src="https://www.svgrepo.com/show/342062/next-js.svg" style="padding-right:10px;" />](https://nextjs.org/)
+[<img align="left" alt="Next.js" width="26px" src="https://www.svgrepo.com/show/354112/nextjs.svg" style="padding-right:10px;" />](https://nextjs.org/)
 [<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />](https://nodejs.org/en/)
 
 [<img align="left" alt="Firebase" width="26px" src="https://www.svgrepo.com/show/353735/firebase.svg" style="padding-right:10px;" />](https://firebase.google.com/)
@@ -31,11 +31,10 @@
 <br />
 <br />
 
-### Connect with me:
+### Contact:
 
 [<img align="left" alt="LinkedIn" width="26px" src="https://www.svgrepo.com/show/157006/linkedin.svg" style="padding-right:10px;" />](https://www.linkedin.com/in/facundo-martin-88637422b/)
-[<img align="left" alt="Gmail" width="26px" src="fhttps://www.svgrepo.com/show/381000/new-logo-gmail.svg" style="padding-right:10px;" />](https://gmail.com)
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />]
+<img align="left" alt="Gmail" width="26px" src="https://www.svgrepo.com/show/381000/new-logo-gmail.svg" style="padding-right:10px;" />](https://gmail.com)
 
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Facundo-Martin)](https://github.com/Facundo-Martin/github-readme-stats) -->
