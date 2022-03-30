@@ -9,8 +9,6 @@
 - ⚡ Fun fact: I used to hate React, now I can't live without it...
 - 😻 Check out my favorite project so far: [Twitter Web 3.0 App](https://github.com/Facundo-Martin/twitter-blockchain-app)
 
-<br/>
-
 ---
 
 ### Languages and Tools:
