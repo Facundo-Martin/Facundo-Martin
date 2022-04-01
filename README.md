@@ -1,5 +1,4 @@
 # Hi there, I'm [Facundo](https://facundomartin.io) 👋
-<a href="https://google.com" target="_blank"> #Facundo </a>
 
 
 ## I'm a Front End Developer
