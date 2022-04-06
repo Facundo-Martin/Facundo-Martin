@@ -8,7 +8,7 @@
 - 👯 I’m looking to join a software development team
 - 🥅 2022 Goals: Get my first job in tech!
 - ⚡ Fun fact: I used to hate React, now I can't live without it...
-- 😻 Check out my favorite project so far: [Twitter Web 3.0 App](https://github.com/Facundo-Martin/twitter-blockchain-app)
+- 😻 Check out my favorite project so far: [Twitter Web 3.0 App](https://twitter-blockchain-8nsqhzxwu-facundo-martin.vercel.app/)
 
 ---
 
