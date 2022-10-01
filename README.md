@@ -1,15 +1,15 @@
 # Hi there, I'm [Facundo](https://facundomartin.io) 👋
 <div >
-<a href="https://app.daily.dev/facundomartin1"><img src="https://api.daily.dev/devcards/993e619d860343aba0b882e1587c9f91.png?r=821" width="400" align="right" alt="Facundo Martin's Dev Card"/></a>
+<a href="https://app.daily.dev/facundomartin1" target="_blank" rel="noreferrer"><img src="https://api.daily.dev/devcards/993e619d860343aba0b882e1587c9f91.png?r=821" width="400" align="right" alt="Facundo Martin's Dev Card"/></a>
 </div>
 
 ## I'm a Front End Developer
 
 <ul>
 <li>Tech Stack: Next.js - GraphQL - TailwindCSS</li>
-<li>Favorite Project: [Startup Landing Page](https://facundomartin.io)!</li>
-<li>Currently Learning: [Rust](https://facundomartin.io)!</li>
-<li>My Portfolio: [My Portfolio!](https://facundomartin.io)!</li>
+<li>Favorite Project: <a href="https://app.daily.dev/facundomartin1" target="_blank" rel="noreferrer">Startup Landing Page</a></li>
+<li>Currently Learning: <a href="https://app.daily.dev/facundomartin1" target="_blank" rel="noreferrer">Startup Landing Page</a></li>
+<li>My Portfolio: <a href="https://facundomartin.io" target="_blank" rel="noreferrer">Startup Landing Page</a></li>
 </ul>
 ---
 
