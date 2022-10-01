@@ -6,7 +6,7 @@
 ## I'm a Front End Developer
 
 
-* Tech Stack: [Next.js](url){:target="_blank"} - [GraphQL](url){:target="_blank"} - [TailwindCSS](url){:target="_blank"}
+* Tech Stack: <a href="https://app.daily.dev/facundomartin1" target="_blank" rel="noreferrer">Next.ks</a> - [GraphQL](url){:target="_blank"} - [TailwindCSS](url){:target="_blank"}
 * Favorite Project: [Startup Landing Page](https://www.facundomartin.io/){:target="_blank"}
 * Currently Learning: [Rust](https://www.rust-lang.org/) {:target="_blank"}
 * My Portfolio: [facundomartin.io](https://www.facundomartin.io/) {:target="_blank"}
