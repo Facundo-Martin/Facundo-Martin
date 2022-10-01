@@ -5,12 +5,13 @@
 
 ## I'm a Front End Developer
 
-<ul>
-<li>Tech Stack: Next.js - GraphQL - TailwindCSS</li>
-<li>Favorite Project: <a href="https://app.daily.dev/facundomartin1" target="_blank" rel="noreferrer">Startup Landing Page</a></li>
-<li>Currently Learning: <a href="https://app.daily.dev/facundomartin1" target="_blank" rel="noreferrer">Startup Landing Page</a></li>
-<li>My Portfolio: <a href="https://facundomartin.io" target="_blank" rel="noreferrer">Startup Landing Page</a></li>
-</ul>
+
+* Tech Stack: [Next.js](url){:target="_blank"} - [GraphQL](url){:target="_blank"} - [TailwindCSS](url){:target="_blank"}
+* Favorite Project: [Startup Landing Page](https://www.facundomartin.io/){:target="_blank"}
+* Currently Learning: [Rust](https://www.rust-lang.org/){:target="_blank"}
+* My Portfolio: [facundomartin.io](https://www.facundomartin.io/){:target="_blank"}
+
+
 ---
 
 ### Languages and Tools:
