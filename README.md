@@ -41,12 +41,12 @@
 [<img align="left" alt="LinkedIn" width="26px" src="https://www.svgrepo.com/show/157006/linkedin.svg" style="padding-right:10px;" />](https://www.linkedin.com/in/facundo-martin-88637422b/)
 [<img align="left" alt="Gmail" width="26px" src="https://www.svgrepo.com/show/381000/new-logo-gmail.svg" style="padding-right:10px;" />](https://www.gmail.com)
 <br /> -->
-<br />
+<!-- <br />
  <details>
   <summary> Languages Stats</summary>
  <br />
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Facundo-Martin)](https://github.com/Facundo-Martin/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Facundo-Martin)](https://github.com/Facundo-Martin/github-readme-stats) -->
 
 <!-- ### 📕 Latest Projects -->
 
