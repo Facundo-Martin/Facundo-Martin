@@ -8,8 +8,8 @@
 
 * Tech Stack: [Next.js](url){:target="_blank"} - [GraphQL](url){:target="_blank"} - [TailwindCSS](url){:target="_blank"}
 * Favorite Project: [Startup Landing Page](https://www.facundomartin.io/){:target="_blank"}
-* Currently Learning: [Rust](https://www.rust-lang.org/){:target="_blank"}
-* My Portfolio: [facundomartin.io](https://www.facundomartin.io/){:target="_blank"}
+* Currently Learning: [Rust](https://www.rust-lang.org/) {:target="_blank"}
+* My Portfolio: [facundomartin.io](https://www.facundomartin.io/) {:target="_blank"}
 
 
 ---
