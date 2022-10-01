@@ -3,7 +3,7 @@
 <a href="https://app.daily.dev/facundomartin1" target="_blank" rel="noreferrer"><img src="https://api.daily.dev/devcards/993e619d860343aba0b882e1587c9f91.png?r=821" width="400" align="right" alt="Facundo Martin's Dev Card"/></a>
 </div>
 
-## I'm a Front End Developer
+## I'm a React Developer
 
 
 * Tech Stack: [Next.js](https://nextjs.org/) - [ApolloGraphQL](https://www.apollographql.com/) - [TailwindCSS](https://tailwindcss.com/)
