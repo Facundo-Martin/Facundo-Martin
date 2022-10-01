@@ -45,8 +45,8 @@
   <summary> Languages Stats</summary>
  <br />
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Facundo-Martin)](https://github.com/Facundo-Martin/github-readme-stats)
-
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Facundo-Martin)](https://github.com/Facundo-Martin/github-readme-stats)
+ -->
 <!-- ### 📕 Latest Projects -->
 
 <!-- BLOG-POST-LIST:START -->
@@ -73,9 +73,9 @@
 5. 💪 Opened PR [#1](https://github.com/mongodb-developer/mongodb-ecommerce/pull/1) in [mongodb-developer/mongodb-ecommerce](https://github.com/mongodb-developer/mongodb-ecommerce) -->
 <!--END_SECTION:activity-->
 
-<!-- </details>  -->
-<!-- 
+</details> 
+
  <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" /> -->
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
