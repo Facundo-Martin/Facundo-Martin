@@ -6,10 +6,10 @@
 ## I'm a Front End Developer
 
 
-* Tech Stack: <a href="https://app.daily.dev/facundomartin1" target="_blank" rel="noreferrer">Next.ks</a> - [GraphQL](url){:target="_blank"} - [TailwindCSS](url){:target="_blank"}
-* Favorite Project: [Startup Landing Page](https://www.facundomartin.io/){:target="_blank"}
-* Currently Learning: [Rust](https://www.rust-lang.org/) {:target="_blank"}
-* My Portfolio: [facundomartin.io](https://www.facundomartin.io/) {:target="_blank"}
+* Tech Stack: [Next.js](https://nextjs.org/) - [ApolloGraphQL](https://www.apollographql.com/) - [TailwindCSS](https://tailwindcss.com/)
+* Favorite Project: [Startup Landing Page](https://www.facundomartin.io/)
+* Currently Learning: [Rust](https://www.rust-lang.org/)
+* My Portfolio: [facundomartin.io](https://www.facundomartin.io/)
 
 
 ---
