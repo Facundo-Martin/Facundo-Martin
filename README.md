@@ -1,16 +1,16 @@
-<a href="https://app.daily.dev/facundomartin1"><img src="https://api.daily.dev/devcards/993e619d860343aba0b882e1587c9f91.png?r=821" width="400" align="right" alt="Facundo Martin's Dev Card"/></a>
 # Hi there, I'm [Facundo](https://facundomartin.io) 👋
-
+<div >
+<a href="https://app.daily.dev/facundomartin1"><img src="https://api.daily.dev/devcards/993e619d860343aba0b882e1587c9f91.png?r=821" width="400" align="right" alt="Facundo Martin's Dev Card"/></a>
+</div>
 
 ## I'm a Front End Developer
 
-- 🔭 Check out my Portfolio: [My Portfolio!](https://facundomartin.io)!
-- 🌱 I’m currently learning Web 3.0 and Blockchain development
-<!-- - 👯 I’m looking to join a software development team
-- 🥅 2022 Goals: Get my first job in tech! -->
-- ⚡ Fun fact: I used to hate React, now I can't live without it...
-- 😻 Check out my favorite project so far: [Twitter Web 3.0 App](https://twitter-blockchain-8nsqhzxwu-facundo-martin.vercel.app/)
-
+<ul>
+<li>Tech Stack: Next.js - GraphQL - TailwindCSS</li>
+<li>Favorite Project: [Startup Landing Page](https://facundomartin.io)!</li>
+<li>Currently Learning: [Rust](https://facundomartin.io)!</li>
+<li>My Portfolio: [My Portfolio!](https://facundomartin.io)!</li>
+</ul>
 ---
 
 ### Languages and Tools:
@@ -40,13 +40,13 @@
 [<img align="left" alt="LinkedIn" width="26px" src="https://www.svgrepo.com/show/157006/linkedin.svg" style="padding-right:10px;" />](https://www.linkedin.com/in/facundo-martin-88637422b/)
 [<img align="left" alt="Gmail" width="26px" src="https://www.svgrepo.com/show/381000/new-logo-gmail.svg" style="padding-right:10px;" />](https://www.gmail.com)
 <br /> -->
-<!-- <br />
+<br />
  <details>
   <summary> Languages Stats</summary>
- <br /> -->
+ <br />
  
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Facundo-Martin)](https://github.com/Facundo-Martin/github-readme-stats)
- -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Facundo-Martin)](https://github.com/Facundo-Martin/github-readme-stats)
+
 <!-- ### 📕 Latest Projects -->
 
 <!-- BLOG-POST-LIST:START -->
@@ -73,8 +73,8 @@
 5. 💪 Opened PR [#1](https://github.com/mongodb-developer/mongodb-ecommerce/pull/1) in [mongodb-developer/mongodb-ecommerce](https://github.com/mongodb-developer/mongodb-ecommerce) -->
 <!--END_SECTION:activity-->
 
-<!-- </details> 
-
+<!-- </details>  -->
+<!-- 
  <details>
   <summary>:zap: GitHub Stats</summary>
 
