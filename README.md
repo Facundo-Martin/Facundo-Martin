@@ -13,8 +13,11 @@
 
 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at elit ut ante accumsan facilisis. Nullam aliquet, ligula vitae porttitor tincidunt, tellus nulla vestibulum ex, fermentum vulputate eros erat et felis. 
-Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Donec vitae leo posuere, fringilla ex at, elementum diam. Proin sit amet purus urna. Cras sollicitudin tempor scelerisque.
+Wow if you are reading this then you truly must be interested. Unfortunately, I don't have much left to say or share with you. 
+I like React and Tailwind CSS, and that pretty much accounts for 80% of my day.
+When I am not coding for work, I'm doing it for fun. 
+But hey, I do like skiing, dogs, and a good drink with a friend. That's gotta account for something, right?
+
 
 <!-- ### Languages and Tools:
 
