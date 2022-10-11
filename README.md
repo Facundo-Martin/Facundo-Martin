@@ -20,6 +20,8 @@ When I am not coding for work, I'm doing it for fun.
 
 But hey, I do like skiing, dogs, and a good drink with a friend. That's gotta account for something, right?
 
+Anyways, feel free to message or contact me if you have any questions!
+
 
 <!-- ### Languages and Tools:
 
