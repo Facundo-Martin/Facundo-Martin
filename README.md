@@ -15,9 +15,10 @@
 
 I am a software engineer with a specialization in front-end development. For the past 2 years, I have been developing web applications using React and Next.js frameworks in combination with Redux Toolkit, GraphQL + Apollo Client, Tailwind, and more.
 
-I have experience building web applications from the ground-up for start-ups, taking on various responsibilities and collaborating with small teams. I have worked closely with designers, back-end engineers, and key stakeholders such as CEOs and CTOs to translate business needs and requirements into functional software.
 
 I am currently the Lead Engineer of the Text2Order’s Admin Dashboard, a software that allows venues to manage their restaurants and kitchens in order to provide food delivery services to sports fans. This project is a key feature to land clients, as it gives them the opportunity to manage their business and coordinate food services from one platform.
+
+I have experience building web applications from the ground-up for start-ups, taking on various responsibilities and collaborating with small teams. I have worked closely with designers, back-end engineers, and key stakeholders such as CEOs and CTOs to translate business needs and requirements into functional software.
 
 
 <!-- ### Languages and Tools:
