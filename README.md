@@ -4,6 +4,8 @@
 ## I'm a Software Engineer 
 ### I specialize in End Development with React
 
+---
+
 * Tech Stack: [Next.js](https://nextjs.org/) - [ApolloGraphQL](https://www.apollographql.com/) - [TailwindCSS](https://tailwindcss.com/)
 * Favorite Project: [Startup Landing Page](https://www.facundomartin.io/)
 * Currently Learning: [Rust](https://www.rust-lang.org/)
