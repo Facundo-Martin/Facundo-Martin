@@ -1,7 +1,7 @@
 <a href="https://app.daily.dev/facundomartin1" target="_blank" rel="noreferrer"><img src="https://api.daily.dev/devcards/993e619d860343aba0b882e1587c9f91.png?r=821" width="400" align="right" alt="Facundo Martin's Dev Card"/></a>
 # Hi there, I'm [Facundo](https://facundomartin.io) 👋
 
-## I'm a React Developer
+## I'm a Software Engineer especialized in Front End Development with React
 
 * Tech Stack: [Next.js](https://nextjs.org/) - [ApolloGraphQL](https://www.apollographql.com/) - [TailwindCSS](https://tailwindcss.com/)
 * Favorite Project: [Startup Landing Page](https://www.facundomartin.io/)
