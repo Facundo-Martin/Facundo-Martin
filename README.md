@@ -4,8 +4,8 @@
 ## I'm a Software Engineer 
 
 * Tech Stack: [Next.js](https://nextjs.org/) - [ApolloGraphQL](https://www.apollographql.com/) - [TailwindCSS](https://tailwindcss.com/)
-* Favorite Project: [Startup Landing Page](https://www.facundomartin.io/)
-* Currently Learning: [Rust](https://www.rust-lang.org/)
+<!-- * Favorite Project: [Startup Landing Page](https://www.facundomartin.io/)
+* Currently Learning: [Rust](https://www.rust-lang.org/) -->
 * My Portfolio: [facundomartin.io](https://www.facundomartin.io/)
 
 ---
