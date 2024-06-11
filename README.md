@@ -6,11 +6,11 @@
 
 A few projects that I want to tackle:
 
-##### System Design
+#### System Design
 - [ ] URL Shortener (Nextjs - Drizzle - Neon)
 - [ ] Key-value store (Good opportunity to explore Rust 👀)
 
-##### Challenging projects
+#### Challenging projects
 - [ ] Build your own text editor
 - [ ] Maybe build my own distributed authentication system (How hard could it be? There's at least 20 auth provider startups nowadays)
 - [ ] Build your own operating system
