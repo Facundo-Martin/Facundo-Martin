@@ -1,6 +1,6 @@
-Working hard so I can afford avocados, and give my dog a better life
+## Working hard so I can afford avocados, and give my dog a better life
 
-What you're looking for is probably in [facundomartin.dev](https://www.facundomartin.dev/)
+### What you're looking for is probably in [facundomartin.dev](https://www.facundomartin.dev/)
 
 A few projects that I want to tackle:
 
