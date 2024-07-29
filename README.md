@@ -1,4 +1,4 @@
-### Working hard so I can afford avocados, and give my dog a better life
+### Working hard so I can give my dog a better life and afford avocados
 
 #### What you're looking for is probably in [facundomartin.dev](https://www.facundomartin.dev/)
 
