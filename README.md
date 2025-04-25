@@ -15,12 +15,13 @@ Currently, I'm building seamless neobanking solutions at [Novo](https://www.novo
 
 ### Featured blogs/articles
 
-- 📖 [A Developer’s Story – Vinit Shahdeo](https://www.geektrust.in/blog/2019/07/31/developers-story-vinit-shahdeo/)
-- 🚀 [Join Postman at Google Summer of Code 2023](https://blog.postman.com/join-postman-at-google-summer-of-code-2023/)
-- 💻 [If You Are A Techie, Your Home Page Should Be GitHub, Not Instagram](https://www.opensourceforu.com/2020/07/if-you-are-a-techie-your-home-page-should-be-github-not-instagram/)
-- 🌟 [Vinit Shahdeo: From a GitHub User to a GitHub Star](https://technovans.com/vinit-shahdeo-from-a-github-user-to-a-github-star)
-- 🧠 [10 lessons I've learned as a Software Engineer at Postman](https://vinitshahdeo.dev/10-lessons-learned-as-software-engineer-at-postman)
+- [2 Years Building TIL: Engineering Lessons & Hard-Won Insights](https://facundomartin.dev/articles/two-years-building-til-engineering-lessons-and-hard-won-insights)
+- [Building a Lightning-Fast Search Experience: Mistakes, Breakthroughs, and Performance Wins](https://facundomartin.dev/articles/building-a-lightning-fast-search-experience-mistakes-breakthroughs-and-performance-wins)
+- [JSON as a Temporary Database: How We Scaled Data Prototyping](https://facundomartin.dev/articles/JSON-as-a-temporary-database-how-we-scaled-data-prototyping)
+- [The 2025 Startup Tech Stack: A Founding Engineer's Opinionated Blueprint](https://facundomartin.dev/articles/the-2025-startup-tech-stack-a-founding-engineers-opinionated-blueprint)
+<!-- 🧠 🧠 🚀 💻 📖 -->
 
+<!-- 
 ### Projects
 
 Apart from the pinned repositories, I have built:
@@ -28,13 +29,14 @@ Apart from the pinned repositories, I have built:
 - 🔍 [OpenAPI Web Search](https://vinitshahdeo.dev/open-api-web-search) *(part of [GSoC at Postman](https://blog.postman.com/postmans-projects-and-contributors-google-summer-of-code-2023/))*
 - 💧 [Water Monitoring System](https://github.com/vinitshahdeo/Water-Monitoring-System) *(part of [Rails Girls Summer Of Code](https://twitter.com/Vinit_Shahdeo/status/1234936360613695489))*
 - 🦠 [COVID-19 Tracker](https://github.com/vinitshahdeo/COVID19) *(featured in [newspapers](https://thenewskhazana.com/story/meet-vinit-shahdeo-a-resident-of-jharkhand-has-been-recognized-as-a-github-star-22451/), [blogs](https://www.ranchiblog.in/vinit-shahdeo-github-star-from-jharkhand-india/vinit-shahdeo-github-star-from-india/))*
-
+-->
 ### Tech Stack
 
 I mostly work with **JavaScript**, specifically **Node.js** in the backend with **AWS** as the cloud and **Kafka** as the queuing system. Recently, I have been tinkering with **GoLang**.
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nextjs,js,ts,nodejs,html,css,aws,bash,bun,cloudflare,git,github,grpahql,linux,neovim,planetscale,pnpm,prisma,react,redux,supabase,tailwind,vscode)](https://skillicons.dev)
+
 
 ### Let's connect!
 
-Explore my thoughts at [facundomartin.dev]([https://vinitshahdeo.dev/](https://facundomartin.dev/articles)), and let's connect on 𝕏 [(Twitter)](https://twitter.com/) and [LinkedIn]([https://www.linkedin.com/in/vinitshahdeo/](https://www.linkedin.com/in/facundo-martin-dev/).
+Explore my thoughts at [(facundomartin.dev)](https://vinitshahdeo.dev/](https://facundomartin.dev/articles), and let's connect on 𝕏 [(Twitter)](https://twitter.com/) and [(LinkedIn)]([https://www.linkedin.com/in/vinitshahdeo/](https://www.linkedin.com/in/facundo-martin-dev/).
