@@ -1,4 +1,4 @@
-<h1 align='center'>👋 Hello!</h1>
+<!-- <h1 align='center'>👋 Hello!</h1>
 <p align='center'>
 <a href="https://wakatime.com/@018d7fcd-3625-4d05-9e6b-2a3cebe45299"><img src="https://wakatime.com/badge/user/018d7fcd-3625-4d05-9e6b-2a3cebe45299.svg"/></a>
 <a href="https://peerlist.io/vinitshahdeo"><img src="https://img.shields.io/badge/Peerlist-vinitshahdeo-00AB46?logo=peerlist"/></a>
@@ -30,7 +30,7 @@ Apart from the pinned repositories, I have built:
 - 💧 [Water Monitoring System](https://github.com/vinitshahdeo/Water-Monitoring-System) *(part of [Rails Girls Summer Of Code](https://twitter.com/Vinit_Shahdeo/status/1234936360613695489))*
 - 🦠 [COVID-19 Tracker](https://github.com/vinitshahdeo/COVID19) *(featured in [newspapers](https://thenewskhazana.com/story/meet-vinit-shahdeo-a-resident-of-jharkhand-has-been-recognized-as-a-github-star-22451/), [blogs](https://www.ranchiblog.in/vinit-shahdeo-github-star-from-jharkhand-india/vinit-shahdeo-github-star-from-india/))*
 -->
-### Tech Stack
+<!-- ### Tech Stack
 
 I mostly work with **JavaScript**, specifically **Node.js** in the backend with **AWS** as the cloud and **Kafka** as the queuing system. Recently, I have been tinkering with **GoLang**.
 
@@ -40,3 +40,4 @@ I mostly work with **JavaScript**, specifically **Node.js** in the backend with 
 ### Let's connect!
 
 Explore my thoughts at [(facundomartin.dev)](https://vinitshahdeo.dev/](https://facundomartin.dev/articles), and let's connect on 𝕏 [(Twitter)](https://twitter.com/) and [(LinkedIn)]([https://www.linkedin.com/in/vinitshahdeo/](https://www.linkedin.com/in/facundo-martin-dev/).
+
