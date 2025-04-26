@@ -1,8 +1,8 @@
 # <div align="center">👋 Hello, I'm Facundo Martin</div>
-
 <div align="center">
   <b>Code craftsman, engineer, architecture enthusiast.</b>
 </div>
+
 
 Glad to see you here! I'm Facundo, a **Software Engineer** with a passion for building **clean interfaces** and **thoughtful architecture**. I love creating robust systems that help startups thrive and find satisfaction in elegant solutions to complex problems. When I'm not coding, you can find me exploring architecture patterns, reading tech blogs, or experimenting with new frameworks.
 
