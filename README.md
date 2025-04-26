@@ -4,13 +4,13 @@
   <b>Code craftsman, engineer, architecture enthusiast.</b>
 </div>
 
-## About Me
+Glad to see you here! I'm Facundo, a **Software Engineer** with a passion for building **clean interfaces** and **thoughtful architecture**. I love creating robust systems that help startups thrive and find satisfaction in elegant solutions to complex problems. When I'm not coding, you can find me exploring architecture patterns, reading tech blogs, or experimenting with new frameworks.
 
-I'm Facundo. I build software with an emphasis on clean interfaces and thoughtful architecture. Passionate about engineering robust systems that help startups thrive. I tend to own features end-to-end, from planning to deployment, and enjoy bridging the gap between design, engineering, and user experience.
+Most recently, I was at **Til**, a marketplace for guitar lessons, where I joined as the 3rd engineer. I helped scale the platform from seed stage through various technical challenges, building everything from search experiences to payment systems. My approach blends practical engineering with forward-thinking architecture that evolves with product needs. I'm particularly drawn to technologies that maximize developer productivity while solving real business problems.
 
 ## ✍️ Technical Writing
 
-Here are some articles I've written sharing lessons and insights from my engineering journey:
+I write in-depth articles about software engineering, focusing on practical lessons and architecture decisions:
 
 - [The 2025 Startup Tech Stack: A Founding Engineer's Blueprint](https://facundomartin.dev/articles/the-2025-startup-tech-stack-a-founding-engineers-opinionated-blueprint)
 - [2 Years Building TIL: Engineering Lessons & Hard-Won Insights](https://facundomartin.dev/articles/two-years-building-til-engineering-lessons-and-hard-won-insights) 
@@ -19,16 +19,20 @@ Here are some articles I've written sharing lessons and insights from my enginee
 
 ## 🛠️ Tech Stack
 
-I'm a fullstack engineer who thrives on owning features end-to-end. My current go-to technologies are:
+I primarily work with **Next.js**, **TypeScript**, and **Tailwind CSS**, paired with whatever ORM and serverless combo allows me to prototype quickly and build fast. I'm a full-stack engineer who thrives on owning features end-to-end, from zero to one.
 
-[![My Skills](https://skillicons.dev/icons?i=nextjs,js,ts,react,nodejs,prisma,tailwind,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nextjs,ts,tailwind,prisma,planetscale,supabase,postgres,vercel)](https://skillicons.dev)
+
+Lately, I've been exploring **edge computing** and am particularly intrigued by what **Turso** is doing for global data distribution. I'm always curious about technologies that push the boundaries of what's possible on the web.
 
 ### Tools I Enjoy Using
 
-These are some tools that make my development life better:
+[![My Tools](https://skillicons.dev/icons?i=aws,bash,cloudflare,git,github,linux,neovim,pnpm,vscode)](https://skillicons.dev)
 
-[![My Tools](https://skillicons.dev/icons?i=aws,bash,bun,cloudflare,git,github,linux,neovim,pnpm,vscode)](https://skillicons.dev)
+### 📫 Let's Connect!
 
-## 📫 Let's Connect!
+I'm always interested in discussing software architecture, startup engineering, and technical challenges. You can explore more of my thoughts at [facundomartin.dev/articles](https://facundomartin.dev/articles).
 
-Explore more of my thoughts on software engineering at [facundomartin.dev/articles](https://facundomartin.dev/articles), and let's connect on [Twitter](https://twitter.com/facundomartin) and [LinkedIn](https://www.linkedin.com/in/facundo-martin-dev/).
+- **Website**: [facundomartin.dev](https://facundomartin.dev)
+- **Twitter**: [@facundomartin](https://twitter.com/facundomartin)
+- **LinkedIn**: [Facundo Martin](https://www.linkedin.com/in/facundo-martin-dev/)
