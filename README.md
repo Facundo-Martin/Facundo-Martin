@@ -1,4 +1,4 @@
-## 👋 Hello
+<h3 align="center">👋 Hi there</h3> 
 
 <!-- <p align="center">
   <b>Code craftsman, engineer, architecture enthusiast.</b>
@@ -14,14 +14,14 @@ Most recently, I was at **Til**, a marketplace for guitar lessons, where I joine
 
 I write in-depth articles about software engineering, focusing on practical lessons and architecture decisions:
 
-- [The 2025 Startup Tech Stack: A Founding Engineer's Blueprint](https://facundomartin.dev/articles/the-2025-startup-tech-stack-a-founding-engineers-opinionated-blueprint)
-- [2 Years Building TIL: Engineering Lessons & Hard-Won Insights](https://facundomartin.dev/articles/two-years-building-til-engineering-lessons-and-hard-won-insights) 
-- [Building a Lightning-Fast Search Experience](https://facundomartin.dev/articles/building-a-lightning-fast-search-experience-mistakes-breakthroughs-and-performance-wins)
-- [JSON as a Temporary Database: How We Scaled Data Prototyping](https://facundomartin.dev/articles/JSON-as-a-temporary-database-how-we-scaled-data-prototyping)
+- 🚀 [The 2025 Startup Tech Stack: A Founding Engineer's Blueprint](https://facundomartin.dev/articles/the-2025-startup-tech-stack-a-founding-engineers-opinionated-blueprint)
+- 🧠 [2 Years Building TIL: Engineering Lessons & Hard-Won Insights](https://facundomartin.dev/articles/two-years-building-til-engineering-lessons-and-hard-won-insights) 
+- ⚡ [Building a Lightning-Fast Search Experience](https://facundomartin.dev/articles/building-a-lightning-fast-search-experience-mistakes-breakthroughs-and-performance-wins)
+- 💻 [JSON as a Temporary Database: How We Scaled Data Prototyping](https://facundomartin.dev/articles/JSON-as-a-temporary-database-how-we-scaled-data-prototyping)
 
 ## 🛠️ Tech Stack
 
-I primarily work with **Next.js**, **TypeScript**, and **Tailwind CSS**, paired with whatever ORM and serverless combo allows me to prototype quickly and build fast. I'm a full-stack engineer who thrives on owning features end-to-end, from zero to one.
+I primarily work with **Next.js**, **TypeScript**, and **Tailwind CSS**, paired with whatever ORM and serverless combo allows me to prototype quickly and build fast.
 
 [![My Skills](https://skillicons.dev/icons?i=nextjs,ts,tailwind,prisma,planetscale,supabase,postgres,vercel)](https://skillicons.dev)
 
