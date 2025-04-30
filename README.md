@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi there</h3> 
 
-Glad you found your way here! I'm Facundo, a Software Engineer who's passionate about crafting systems where code is just the implementation detail. I build from zero-to-one with a focus on clean interfaces and thoughtful architecture that compounds value over time. You can read more about me [here](https://facundomartin.dev/about)
+Glad you found your way here! I'm Facundo, a Software Engineer who's passionate about crafting systems where code is just the implementation detail. I build from zero-to-one with a focus on clean interfaces and thoughtful architecture that compounds value over time. You can read more about me [here](https://facundomartin.dev/about).
 
 Most recently, I was at Til where I helped scale their guitar lessons marketplace as their 3rd engineer. I navigated the journey from seed stage through critical technical inflection points—building search experiences, scheduling systems, and finding that balance between rapid innovation and sustainable engineering.
 
