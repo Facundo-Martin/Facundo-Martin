@@ -9,9 +9,9 @@ What drives me isn't just writing code, but designing patterns that make each ne
 ### Featured blogs/articles
 
 - 🧠 [2 Years Building TIL: Engineering Lessons & Hard-Won Insights](https://facundomartin.dev/articles/two-years-building-til-engineering-lessons-and-hard-won-insights)
-- - 🚀 [The 2025 Startup Tech Stack: A Founding Engineer's Blueprint](https://facundomartin.dev/articles/the-2025-startup-tech-stack-a-founding-engineers-opinionated-blueprint) 
+- 🚀 [The 2025 Startup Tech Stack: A Founding Engineer's Blueprint](https://facundomartin.dev/articles/the-2025-startup-tech-stack-a-founding-engineers-opinionated-blueprint) 
 - 💻 [JSON as a Temporary Database: How We Scaled Data Prototyping](https://facundomartin.dev/articles/JSON-as-a-temporary-database-how-we-scaled-data-prototyping)
-- - ⚡ [Building a Lightning-Fast Search Experience: Mistakes, Breakthroughs, and Performance Wins](https://facundomartin.dev/articles/building-a-lightning-fast-search-experience-mistakes-breakthroughs-and-performance-wins)
+- ⚡ [Building a Lightning-Fast Search Experience: Mistakes, Breakthroughs, and Performance Wins](https://facundomartin.dev/articles/building-a-lightning-fast-search-experience-mistakes-breakthroughs-and-performance-wins)
 
 ## 🛠️ Tech Stack
 
