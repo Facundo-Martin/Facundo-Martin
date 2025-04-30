@@ -1,14 +1,10 @@
 <h1 align="center">👋 Hi there</h3> 
 
-<!-- <p align="center">
-  <b>Code craftsman, engineer, architecture enthusiast.</b>
-</p>
--->
-<br>
+Glad you found your way here! I'm Facundo, a Software Engineer who's passionate about crafting systems where code is just the implementation detail. I build from zero-to-one with a focus on clean interfaces and thoughtful architecture that compounds value over time. You can read more about me [here](https://facundomartin.dev/about)
 
-Glad to see you here! I'm Facundo, a **Software Engineer** with a passion for building **clean interfaces** and **thoughtful architecture**. I love creating robust systems that help startups thrive and find satisfaction in elegant solutions to complex problems. When I'm not coding, you can find me exploring architecture patterns, reading tech blogs, or experimenting with new frameworks.
+Most recently, I was at Til where I helped scale their guitar lessons marketplace as their 3rd engineer. I navigated the journey from seed stage through critical technical inflection points—building search experiences, scheduling systems, and finding that balance between rapid innovation and sustainable engineering.
 
-Most recently, I was at **Til**, a marketplace for guitar lessons, where I joined as the 3rd engineer. I helped scale the platform from seed stage through various technical challenges, building everything from search experiences to payment systems. My approach blends practical engineering with forward-thinking architecture that evolves with product needs. I'm particularly drawn to technologies that maximize developer productivity while solving real business problems.
+What drives me isn't just writing code, but designing patterns that make each new feature easier to build than the last. I'm drawn to that sweet spot where craftsmanship doesn't have to be sacrificed for speed.
 
 ### Featured blogs/articles
 
