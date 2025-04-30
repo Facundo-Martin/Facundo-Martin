@@ -10,7 +10,7 @@ Glad to see you here! I'm Facundo, a **Software Engineer** with a passion for bu
 
 Most recently, I was at **Til**, a marketplace for guitar lessons, where I joined as the 3rd engineer. I helped scale the platform from seed stage through various technical challenges, building everything from search experiences to payment systems. My approach blends practical engineering with forward-thinking architecture that evolves with product needs. I'm particularly drawn to technologies that maximize developer productivity while solving real business problems.
 
-## ✍️ Technical Writing
+### Featured blogs/articles
 
 I write in-depth articles about software engineering, focusing on practical lessons and architecture decisions:
 
