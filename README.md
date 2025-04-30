@@ -1,4 +1,4 @@
-<h3 align="center">👋 Hi there</h3> 
+<h1 align="center">👋 Hi there</h3> 
 
 <!-- <p align="center">
   <b>Code craftsman, engineer, architecture enthusiast.</b>
@@ -11,8 +11,6 @@ Glad to see you here! I'm Facundo, a **Software Engineer** with a passion for bu
 Most recently, I was at **Til**, a marketplace for guitar lessons, where I joined as the 3rd engineer. I helped scale the platform from seed stage through various technical challenges, building everything from search experiences to payment systems. My approach blends practical engineering with forward-thinking architecture that evolves with product needs. I'm particularly drawn to technologies that maximize developer productivity while solving real business problems.
 
 ### Featured blogs/articles
-
-I write in-depth articles about software engineering, focusing on practical lessons and architecture decisions:
 
 - 🚀 [The 2025 Startup Tech Stack: A Founding Engineer's Blueprint](https://facundomartin.dev/articles/the-2025-startup-tech-stack-a-founding-engineers-opinionated-blueprint)
 - 🧠 [2 Years Building TIL: Engineering Lessons & Hard-Won Insights](https://facundomartin.dev/articles/two-years-building-til-engineering-lessons-and-hard-won-insights) 
