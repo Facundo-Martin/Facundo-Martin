@@ -21,13 +21,9 @@ Most recently, I was at **Til**, a marketplace for guitar lessons, where I joine
 
 I primarily work with **Next.js**, **TypeScript**, and **Tailwind CSS**, paired with whatever ORM and serverless combo allows me to prototype quickly and build fast.
 
-[![My Skills](https://skillicons.dev/icons?i=nextjs,ts,tailwind,prisma,planetscale,supabase,postgres,vercel)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nextjs,ts,tailwind,prisma,planetscale,supabase,postgres,vercel,aws,cloudflare,git,github,vscode)](https://skillicons.dev)
 
 Lately, I've been exploring **edge computing** and am particularly intrigued by what **Turso** is doing for global data distribution. I'm always curious about technologies that push the boundaries of what's possible on the web.
-
-### Tools I Enjoy Using
-
-[![My Tools](https://skillicons.dev/icons?i=aws,bash,cloudflare,git,github,linux,neovim,pnpm,vscode)](https://skillicons.dev)
 
 ### 📫 Let's Connect!
 
